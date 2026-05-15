@@ -153,7 +153,9 @@ body {
 }
 
 .blog article h2 {
-    background: #dff56a;  /* 黄緑 */
+    background: #dff56a;  
     padding: 20px;
     border-radius: 15px;
+    
+    
 }
